@@ -13,3 +13,6 @@ my_function_params Shiqui
 
 echo "Hola, Shiqui del futuro"
 echo "Hola, Shiqui del futuro"
+echo "Cuál es tu nombre? "
+
+
