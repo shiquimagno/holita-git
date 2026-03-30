@@ -16,3 +16,14 @@ echo "Hola, Shiqui del futuro"
 echo "Cuál es tu nombre? "
 
 
+
+echo "Hola, Shiqui del futuro"
+echo "Hola, Shiqui del futuro"
+echo "Hola, Shiqui del futuro"
+echo "Hola, Shiqui del futuro"
+echo "Hola, Shiqui del futuro"
+echo "Hola, Shiqui del futuro"
+echo "Hola, Shiqui del futuro"
+echo "Hola, Shiqui del futuro"
+echo "Hola, Shiqui del futuro"
+echo "Hola, Shiqui del futuro"
